@@ -89,12 +89,16 @@
 ## 硬件电路
 
 OLED
-      arduino       OLED
-      D5      >     MOSI
-      D7      >     SCK
-      D2      >     DC
-      D8      >     CS 
-      D3      >     RES
+
+​      D5      >     MOSI
+
+​      D7      >     SCK
+
+​      D2      >     DC
+
+​      D8      >     CS 
+
+​      D3      >     RES
 
 继电器
 
