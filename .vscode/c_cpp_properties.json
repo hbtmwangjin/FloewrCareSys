@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/ylt/.arduino15/packages/esp8266/tools/**",
+                "/home/ylt/.arduino15/packages/esp8266/hardware/esp8266/2.5.2/**",
+                "${workspaceFolder}/**",
+                "/home/ylt/Software/arduino-1.8.9/**",
+                "/home/ylt/Arduino/libraries/**",
+                "C:\\Users\\yu-xps\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**",
+                "C:\\Users\\yu-xps\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": []
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\yu-xps\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\yu-xps\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**"
+            ],
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
