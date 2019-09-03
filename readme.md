@@ -18,15 +18,14 @@
 
 小伙伴们有需要的可以拿去试试，希望你们玩的开心！
 
-**2019.9.2 ylt** 
+[^]: 2019.9.1 provide by ylt for lmy in hbut
 
 ## 零件清单
 
 这个是在这个项目里你所需要的所有东西
 
-- 1 x NodeMcu esp8266
-
 * 1 x 7Pin0.96 SPI OLED 显示屏
+* 1 x NodeMcu esp8266
 * 1 x USB-A to micro-USB 数据线
 * 12 x 杜邦线（公对公）
 * 1 x 一位继电器
@@ -60,17 +59,14 @@
 
 库文件的下载方式请自行搜索，
 
-具体接入方法请查看blinke官方教程，
-
-[使用esp8266]: https://doc.blinker.app/?file=001-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/02-esp8266%26WiFi%E6%8E%A5%E5%85%A5	"使用esp8266 &WiFi接入"
+具体接入方法请查看blinke官方教程
+ [使用esp8266](https://doc.blinker.app/?file=001-%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B/02-esp8266%26WiFi%E6%8E%A5%E5%85%A5)
 
 有任何blinker接口函数上的问题请查看
 
-[blinker开发文档]: https://doc.blinker.app
+[blinker开发文档](https://doc.blinker.app)
 
-
-
-使用流程 
+接入流程 
 
 开机 
 
